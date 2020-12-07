@@ -1,9 +1,9 @@
 ## Current Projects
 
-* Update Compact Machines ([repo](https://github.com/robotgryphon/CompactMachines)) to 1.16.6
-* Update Compact Crafting (new mod) ([repo](https://github.com/robotgryphon/CompactCrafting)) to 1.16.3
-* Re-learn Java 8 and the newer, fancier things!
-* Probably learn C++ again?
+* [ ] Update Compact Machines ([repo](https://github.com/robotgryphon/CompactMachines)) to 1.16
+* [ ] Update Compact Crafting (new mod) ([repo](https://github.com/robotgryphon/CompactCrafting)) to 1.16
+* [x] Re-learn Java 8 and the newer, fancier things!
+* [ ] Probably learn C++ again?
 	
 
 <!--
